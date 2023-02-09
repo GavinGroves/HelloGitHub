@@ -10,6 +10,6 @@ namespace _02_My_Second_C_Demo
     {
         static void Main(string[] args)
         {
-            Debug.Log();//wuhu
+            Debug.Log();//wuhu gogogogo
         }
     }
